@@ -40,13 +40,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VarsPtz/ajs-homeworks-vars-.git"
+    "url": "git+https://github.com/VarsPtz/ajs-oop.git"
   },
   "keywords": [
     "oop"
   ],
   "bugs": {
-    "url": "https://github.com/VarsPtz/ajs-homeworks-vars-/issues"
+    "url": "https://github.com/VarsPtz/ajs-oop/issues"
   },
-  "homepage": "https://github.com/VarsPtz/ajs-homeworks-vars-#readme"
+  "homepage": "https://github.com/VarsPtz/ajs-oop#readme"
 }
