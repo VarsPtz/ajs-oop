@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/i1jpm0qecepn42hc?svg=true)](https://ci.appveyor.com/project/VarsPtz/ajs-oop)
 # Домашнее задание к лекции «Прототипы, конструкторы»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
