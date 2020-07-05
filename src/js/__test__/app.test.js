@@ -133,3 +133,4 @@ test('Проверка метода damage при health < 0', () => {
   newDaemon.health = -1;
   expect(() => newDaemon.damage(10)).toThrow();
 });
+
